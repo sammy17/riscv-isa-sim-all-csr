@@ -1,0 +1,8 @@
+build/
+build/*
+*.gch
+autom4te.cache/
+.*.swp
+*.o
+*.d
+.gdb_history
